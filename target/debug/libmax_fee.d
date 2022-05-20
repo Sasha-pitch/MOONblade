@@ -1,0 +1,1 @@
+/home/archway/max-fee/target/debug/libmax_fee.so: /home/archway/max-fee/src/contract.rs /home/archway/max-fee/src/error.rs /home/archway/max-fee/src/lib.rs /home/archway/max-fee/src/msg.rs /home/archway/max-fee/src/state.rs

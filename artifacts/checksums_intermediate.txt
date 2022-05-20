@@ -1,0 +1,1 @@
+1aec166aa01950cbb1f5e449fb213807e73eea5ed83c601a7965e76576653823  ./target/wasm32-unknown-unknown/release/max_fee.wasm

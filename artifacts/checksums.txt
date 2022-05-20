@@ -1,0 +1,1 @@
+c8ad4a87ab96dd791bb56add0f1be88b7d1c62881772c54ea756e68f98867b0b  max_fee.wasm
